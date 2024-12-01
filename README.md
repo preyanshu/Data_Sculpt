@@ -19,7 +19,7 @@ This platform enables users to create customizable tasks for contributors while 
 
 ### Github Link
 
-[Explore the Github Repo here](https://github.com/preyanshu/datasculpt)
+[Explore the Github Repo here](https://github.com/preyanshu/Data_Sculpt)
 
 ## Working
 
